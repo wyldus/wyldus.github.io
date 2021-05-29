@@ -9,8 +9,8 @@ My goals are a good way to intorduce my self I want to be the best at what ever 
 
  ## Current projects
 
-* Hello World: Java console application
+* Hello World: Java console [application] (https://github.com/wyldus/hello-world-java.git)
       
-* Hello World: Android app
+* Hello World: Android [application] (https://github.com/wyldus/hello-world-android.git)
  
  ## Links

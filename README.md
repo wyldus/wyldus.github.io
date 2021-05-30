@@ -9,9 +9,8 @@ My goals are a good way to intorduce my self I want to be the best at what ever 
 
  ## Current projects
 
-* Hello World: Java console [application] (https://github.com/wyldus/hello-world-java.git)
-      
-* Hello World: Android [application] (https://github.com/wyldus/hello-world-android.git)
+* Hello World: Java console [application] 
+* Hello World: Android [application] 
  
  ## Links
-Linkdin (https://www.linkedin.com/in/dagoberto-garcia-6375a6213/)
+Linkdin 

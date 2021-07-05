@@ -4,14 +4,18 @@
 
 ## Introduction
  
-"He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft to effeminate. The ieal citizen is the scholar athelete, the man of thought and the man of action."
- -plato
-My goals are a good way to intorduce my self I want to be the best at what ever I do. I work to become the best, the strongest, and the brightest. If I don't like something I change it, If it can be improved keep improving strive for perfection.  
+* "He who is only an athlete is too crude, too vulgar, too much a savage. He who is a scholar only is too soft to effeminate. The ideal citizen is the scholar athlete, the man of thought and the man of action."
+-plato
+
+  * I like to learn, I like to think, and I like to teach. I work to be better than yesterday. I want to be stronger, smarter, and altogether better.
+
 
 ## Current projects
 
-* Hello World: Java console [application](https://github.com/wyldus/hello-world-java.git)
-* Hello World: Android [application](https://github.com/wyldus/hello-world-android.git)
+[Codebreakers]()
 
+[WeThePeople]()
+
+[TeamAssignment]()
 ## Links
 [Linkdin](https://www.linkedin.com/in/dagoberto-garcia-6375a6213/)

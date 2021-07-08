@@ -1,6 +1,6 @@
 # wyldus.github.io
 
-# Dagoberto Garcia
+# Welcome
 
 ## Introduction
  
